@@ -1,7 +1,7 @@
 # **Lisann Zentner**   
 lmzentner@gmail.com       
 (206) 962-7022   
-[Linkedin Profile](linkedin.com/in/lisann)  
+[Linkedin Profile](https://www.linkedin.com/in/lisann/)  
 
 ### **SUMMARY**
 Impact driven professional skilled at guiding successful partnerships through a consultative and collaborative approach seeking highly cross-functional technical program manager role with emphasis on problem solving, analytics. and team empowerment.
