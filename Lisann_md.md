@@ -11,7 +11,7 @@ Impact driven professional skilled at guiding successful partnerships through a 
 **Kal Academy:** Data Science, Artificial Intelligence, & Machine Learning, Data Structures & Algorithms (Feb 2018 - Feb 2019)
 
 ### **EXPERIENCE**
-**Senior Manager of Technology Client Development**
+**Senior Manager of Technology Client Development**     
 _Aditi Consulting_    
 Bellevue, WA     
 Nov. 2017 - April 2018
@@ -20,7 +20,7 @@ Nov. 2017 - April 2018
 * Presented, negotiated, and communicated effectively with stakeholders as a subject-matter expert.
 * Identified and accelerated business opportunities within high-potential new clients.
 
-**Scientific Account Executive** (multistate territory expansion and new hire mentor)
+**Scientific Account Executive** (multistate territory expansion and new hire mentor)    
 _Kelly Services_    
 Bellevue, WA    
 Sept. 2017 - Nov. 2017
@@ -29,7 +29,7 @@ Sept. 2017 - Nov. 2017
 * Consistently over 200% of goal with highest ratios for meetings/connects and orders/meeting.
 * Analyzed data and assisted in identifying opportunities for strategic growth.
 
-**Scientific Business Development Manager**
+**Scientific Business Development Manager**     
 _Kelly Services_     
 Bellevue, WA    
 May 2016 - Sept. 2017
@@ -37,7 +37,7 @@ May 2016 - Sept. 2017
 * Manage branch expenses and budget; review P&L, forecasting and sales pipelines with leadership.
 * Negotiate and manage contractual responsibilities with clients.
 
-**Associate Scientist**
+**Associate Scientist**    
 _Savannah River Nuclear Solutions_    
 Aiken, SC    
 Sept. 2014 - Nov. 2015    
@@ -47,7 +47,7 @@ Sept. 2014 - Nov. 2015
 * Responsible for data evaluation, troubleshooting, reports, and statistical analyses.
 
 ### **ACTIVITIES**
-**Sponsorship Director-at-Large (Previously Chair & Vice Chair)**
+**Sponsorship Director-at-Large (Previously Chair & Vice Chair)**    
 _Women in Bio_     
 Seattle, WA         
 June 2016 - June 2018    
